@@ -15,7 +15,8 @@ I am passionate about building scalable web applications, designing user-friendl
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects 
+- **Hirevoo – Job Portal Website** – MERN Stack (Job listings, applications, and candidate management platform)* 
 - **Water & Electricity Usage Tracker** – Laravel, PHP, MySQL, Chart.js *(Real-time tracking, alerts, reports)*  
 - **Wedding Photography Portfolio** – React.js, EmailJS *(Responsive portfolio website with contact form)*  
 - **Pet Store Website** – Node.js, MongoDB *(E-commerce style CRUD project)*  
@@ -24,7 +25,7 @@ I am passionate about building scalable web applications, designing user-friendl
 
 
 ## 📫 Connect with Me  
-- 📧 Email: saipavan931.com 
+- 📧 Email: saipavan931@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/velpumadugupavan/  
 - 🌐 Portfolio: https://personal-portfolio-pavansai-velpumadugus-projects.vercel.app/ 
 
