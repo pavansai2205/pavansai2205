@@ -16,7 +16,7 @@ I am passionate about building scalable web applications, designing user-friendl
 ---
 
 ## 📌 Featured Projects 
-- **Hirevoo – Job Portal Website** – MERN Stack (Job listings, applications, and candidate management platform)* 
+- **Hirevoo – Job Portal Website** – MERN Stack *(Job listings, applications, and candidate management platform)* 
 - **Water & Electricity Usage Tracker** – Laravel, PHP, MySQL, Chart.js *(Real-time tracking, alerts, reports)*  
 - **Wedding Photography Portfolio** – React.js, EmailJS *(Responsive portfolio website with contact form)*  
 - **Pet Store Website** – Node.js, MongoDB *(E-commerce style CRUD project)*  
