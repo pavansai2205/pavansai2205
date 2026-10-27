@@ -1,131 +1,106 @@
 # Hi, I'm Pavan Sai Velpumadugu 👋
 
-### 🎓 Full-Stack Developer | Python & Java | AI/ML | DevOps
+### Full-Stack Developer | Backend Developer | Java & Python
 
-I am a passionate software developer who enjoys building scalable web applications, developing REST APIs, and solving real-world problems through clean and efficient code. I am strengthening my skills in full-stack development, practical AI/ML, and DevOps while preparing for software development opportunities.
+B.Tech Computer Science graduate passionate about building practical, scalable web applications, REST APIs, and AI-powered solutions. I enjoy turning ideas into working products using modern development tools, clean code, and automation.
 
-- 🔭 Working on **AutoValue-AI** and **TurfX**
-- 💻 Interested in Full-Stack Development, Backend Engineering, and AI-powered applications
-- 🧠 Practicing Data Structures and Algorithms using Java
-- ⚙️ Learning DevOps, CI/CD, cloud deployment, and infrastructure automation
-- 🎯 Focused on building practical, production-ready projects
+- 🚀 Building **AutoValue-AI** and **TurfX**
+- 💻 Focused on Full-Stack Development, Backend Engineering, and API Development
+- 🤖 Exploring practical Machine Learning and AI integration
+- ☁️ Gaining hands-on experience with Docker, CI/CD, AWS, and cloud deployment
+- 🧩 Practicing Data Structures and Algorithms using Java
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technical Skills
 
-**Programming Languages**
-- Java, Python, JavaScript, SQL
+**Languages:** Java, Python, JavaScript, SQL
 
-**Frontend Development**
-- React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap
 
-**Backend Development**
-- Django, Django REST Framework
-- Node.js, Express.js
-- REST APIs, JWT Authentication
+**Backend:** Django, Django REST Framework, Node.js, Express.js, REST APIs, JWT Authentication
 
-**Databases**
-- PostgreSQL, MySQL, MongoDB, SQLite
+**Databases:** PostgreSQL, MySQL, MongoDB, SQLite
 
-**AI / Machine Learning**
-- Scikit-learn, CatBoost, Pandas, NumPy
-- Data Analysis, Data Visualization, Regression Models
-- Integrating machine learning models into web applications
+**AI & Data:** Scikit-learn, CatBoost, Pandas, NumPy, Data Analysis, Regression Models
 
-**DevOps & Cloud**
-- Linux, Git, GitHub
-- Docker, Docker Compose
-- Jenkins, CI/CD Pipelines
-- AWS EC2, Ansible
-- Learning Terraform and Kubernetes
+**DevOps & Cloud:** Linux, Git, GitHub, Docker, Docker Compose, Jenkins, AWS EC2, Ansible
 
-**Tools & Platforms**
-- VS Code, Postman, Cloudinary
-- Razorpay, Chart.js, EmailJS
+**Tools & Platforms:** VS Code, Postman, Cloudinary, Razorpay, Chart.js, EmailJS
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. AutoValue-AI — AI-Powered Vehicle Price Prediction Platform
+### 1. AutoValue-AI — AI-Powered Vehicle Price Prediction
 
 An AI-powered web application that estimates used car and bike prices using machine learning.
 
-- Developed REST APIs using Django REST Framework.
-- Integrated CatBoost regression models for vehicle price prediction.
-- Implemented dependent dropdowns for brands, models, and variants.
-- Built prediction history and detailed prediction views.
-- Used PostgreSQL for production and SQLite for local development.
+- Integrated CatBoost regression models for vehicle price estimation.
+- Built REST APIs using Django REST Framework.
+- Implemented dependent Brand → Model → Variant selection.
+- Developed prediction history and detailed prediction views.
+- Configured PostgreSQL for production and SQLite for local development.
 
-**Tech Stack:** React.js, Python, Django REST Framework, CatBoost, PostgreSQL, SQLite
+**Tech:** React.js · Python · Django REST Framework · CatBoost · PostgreSQL
 
-### 2. TurfX — Smart Turf Booking & Management Platform
+### 2. TurfX — Smart Turf Booking & Management
 
-A full-stack platform for discovering cricket turfs, checking available slots, and managing bookings.
+A full-stack platform for discovering cricket turfs, checking slot availability, and managing bookings.
 
-- Implemented turf discovery and hourly slot booking.
-- Developed player dashboards and turf-owner management features.
-- Integrated JWT authentication and Razorpay payments.
-- Added reviews, ratings, and booking management.
+- Implemented turf discovery and hourly slot booking workflows.
+- Built player dashboards and turf-owner management features.
+- Integrated JWT authentication and Razorpay payment functionality.
+- Added booking management, reviews, and ratings.
 
-**Tech Stack:** React.js, Tailwind CSS, Python, Django REST Framework, JWT, Razorpay
+**Tech:** React.js · Tailwind CSS · Python · Django REST Framework · JWT · Razorpay
 
 ### 3. Attendance & Academic Management System
 
-A web application for attendance tracking and academic management with face-recognition capabilities.
+A web application for academic administration and attendance tracking with face-recognition capabilities.
 
-- Developed academic management workflows.
+- Developed academic management and attendance workflows.
 - Integrated face-recognition functionality and machine learning components.
 
-**Tech Stack:** Next.js, PostgreSQL, Prisma ORM, NextAuth.js, Face-api.js, Scikit-learn
+**Tech:** Next.js · PostgreSQL · Prisma ORM · NextAuth.js · Face-api.js · Scikit-learn
 
 ### 4. Hirevoo — Job Portal
 
 A web application designed to connect job seekers with employment opportunities.
 
-- Built job listing and application management features.
-- Developed frontend interfaces and backend APIs.
+- Developed job listing and application management features.
+- Built frontend interfaces and backend APIs.
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
-
-### 5. Wedding Photography Portfolio
-
-A responsive portfolio website for showcasing photography work and receiving client inquiries.
-
-- Built a responsive user interface.
-- Integrated EmailJS for contact form functionality.
-
-**Tech Stack:** React.js, JavaScript, HTML, CSS, EmailJS
+**Tech:** React.js · Node.js · Express.js · MongoDB · Tailwind CSS
 
 ---
 
-## ⚙️ DevOps & Cloud Learning
+## ☁️ DevOps & Cloud
 
-Currently gaining hands-on experience with:
+Building practical deployment and automation skills through hands-on exercises and projects.
 
 - **Linux:** File management, permissions, processes, services, SSH, and shell commands
-- **Git & GitHub:** Version control, branching, merging, and conflict resolution
-- **Docker:** Building images, running containers, port mapping, and volumes
-- **Docker Compose:** Managing multi-container applications
-- **Jenkins:** Creating CI/CD pipelines and automating builds
-- **AWS EC2:** Deploying applications on cloud virtual machines
-- **Ansible:** Automating server configuration and application deployment
-- **Terraform & Kubernetes:** Learning infrastructure as code and container orchestration
+- **Git & GitHub:** Branching, merging, collaboration, and conflict resolution
+- **Docker:** Images, containers, volumes, and port mapping
+- **Docker Compose:** Multi-container application management
+- **Jenkins:** CI/CD pipeline configuration and automated builds
+- **AWS EC2:** Cloud server setup and application deployment
+- **Ansible:** Server configuration and deployment automation
+- **Next:** Terraform, Kubernetes, and monitoring with Prometheus and Grafana
 
 ---
 
-## 📚 Currently Improving
+## 📈 Current Focus
 
-- Data Structures and Algorithms using Java
-- Backend development and REST API design
-- Practical AI/ML integration
-- Docker-based application deployment
-- Jenkins CI/CD and AWS deployment workflows
+- Strengthening Java DSA and problem-solving skills
+- Building reliable backend services and REST APIs
+- Integrating machine learning into full-stack applications
+- Improving Docker, Jenkins, and cloud deployment workflows
+- Preparing for software development opportunities
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
 - 📧 **Email:** [saipavan931@gmail.com](mailto:saipavan931@gmail.com)
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/velpumadugupavan/)
@@ -134,4 +109,4 @@ Currently gaining hands-on experience with:
 
 ---
 
-⭐ *"Code. Build. Automate. Innovate. Deliver."* 🚀
+⭐ *Code. Build. Automate. Innovate. Deliver.* 🚀
